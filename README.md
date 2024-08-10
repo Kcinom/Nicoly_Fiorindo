@@ -13,7 +13,7 @@ Malissa pets
 
 Colocar aqui o diagrama do banco...
 
-!["descrição"]("link da imagem no github")
+!["descrição"]("link da imagem no github")(link clicavel é feito da mesma forma)
 
 # 3. Diagrama de caso de uso
 Colocar aqui o diagrama de caso de uso...
