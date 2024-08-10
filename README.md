@@ -13,7 +13,7 @@ Malissa pets
 
 Colocar aqui o diagrama do banco...
 
-![]()
+!["descrição"]("link da imagem")
 
 # 3. Diagrama de caso de uso
 Colocar aqui o diagrama de caso de uso...
