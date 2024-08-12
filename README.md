@@ -6,7 +6,32 @@ Autor: Nicoly Samara Fiorindo
 # 1. Descrição do sistema para clínica veterinária...
 
 Nome da clínica:
-Malissa pets
+Melissa pets
+
+
+ Funcionalidades Principais:
+
+
+ Cadastrar clientes 
+
+
+ Cadastrar animais
+
+ 
+ Registrar as condições de chegada dos animais
+
+ Registrar informações sobre os hábitos dos animais
+
+ Verificar agenda
+
+ Registrar prontuários e receitas para cada paciente
+
+ Gerenciar a agenda de atendimentos e fila de espera
+
+ Verificar registros de pagamento e agendamento
+
+ 
+
 
 
 # 2. Diagrama do banco de dados
