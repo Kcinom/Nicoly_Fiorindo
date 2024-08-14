@@ -39,7 +39,97 @@ Melissa pets
 ---
 # 2. Diagrama do banco de dados
 
-```
+```mermaid
+
+erDiagram
+    CLIENTE {
+        int id_cliente PK
+        string nome
+        string telefone
+        string endereco
+        string email
+    }
+
+    ANIMAL {
+        int id_animal PK
+        string nome
+        string especie
+        string raca
+        string idade
+        string condicao_chegada
+        string tipo_racao
+        string habitos
+        int id_cliente FK
+    }
+
+    VETERINARIO {
+        int id_veterinario PK
+        string nome
+        string especialidade
+        bool em_plantao
+    }
+
+    ATENDIMENTO {
+        int id_atendimento PK
+        date data_atendimento
+        time hora_atendimento
+        int id_animal FK
+        int id_veterinario FK
+        int id_atendente FK
+        string observacoes
+    }
+
+    RECEITA {
+        int id_receita PK
+        int id_atendimento FK
+        string medicamentos
+        string posologia
+    }
+
+    AGENDA {
+        int id_agenda PK
+        date data
+        time hora
+        int id_veterinario FK
+        int id_animal FK
+    }
+
+    PRONTUARIO {
+        int id_prontuario PK
+        int id_animal FK
+        int id_veterinario FK
+        string observacoes
+        string diagnostico
+        string tratamento
+    }
+
+    ATENDENTE {
+        int id_atendente PK
+        string nome
+        string turno
+    }
+
+    PLANO_SAUDE {
+        int id_plano PK
+        string tipo_plano
+        string descricao
+        string cobertura
+        float valor_mensal
+    }
+
+    CLIENTE ||--o{ ANIMAL : possui
+    ANIMAL ||--o{ AGENDA : pode_ser
+    ANIMAL ||--o{ ATENDIMENTO : tem
+    ANIMAL ||--o{ PRONTUARIO : possui
+    VETERINARIO ||--o{ ATENDIMENTO : realiza
+    VETERINARIO ||--o{ PRONTUARIO : preenche
+    VETERINARIO ||--o{ AGENDA : tem
+    ATENDIMENTO ||--o{ RECEITA : gera
+    ATENDENTE ||--o{ ATENDIMENTO : faz
+    CLIENTE ||--o{ PLANO_SAUDE : contrata
+
+
+
 ```
 
 ---
