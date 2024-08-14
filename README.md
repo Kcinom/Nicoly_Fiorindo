@@ -39,6 +39,8 @@ Melissa pets
 ---
 # 2. Diagrama do banco de dados
 
+```
+```
 
 ---
 # 3. Diagrama de caso de uso
