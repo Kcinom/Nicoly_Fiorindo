@@ -136,7 +136,7 @@ erDiagram
 # 3. Diagrama de caso de uso
 Colocar aqui o diagrama de caso de uso...
 
-![]()
+![diagrama de caso de uso](https://github.com/Kcinom/Nicoly_Fiorindo/blob/main/imagem/Diagrama%20sem%20nome.drawio.png?raw=true)
 
 ---
 # 4. Principais telas do sistema
@@ -149,3 +149,6 @@ Colocar abaixo a figura das telas do sistema...
 Incluir arquitetura do sistema...
 
 ![]()
+
+
+[def]: https://github.com/Kcinom/Nicoly_Fiorindo/blob/main/imagem/Diagrama%20sem%20nome.drawio.png?raw=true
