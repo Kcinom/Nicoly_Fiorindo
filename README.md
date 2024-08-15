@@ -28,11 +28,11 @@ Melissa pets
 18. Dependendo da situação do animal este receberá uma receita.
 19. Os veterinários devem verificar os plantões.
 20. O atendente deve conseguir ver os horários disponíveis para cirurgias.
-22. Depois das 18:00 a clinica cobra mais 30% durante o horário de plantão, (salvo aqueles que tem o plano de saúde para pet da clinica).
-23. A clinica funciona da 5:00 ás 18:00 fora deste período ela está de plantão.
-24. A clinica tem uma farmacia especializada em pets (com varios produtos a venda e com descontos para aqueles que tem o plano de saúde para pet da clinica).
-25. a clinica tem um plano de saúde para pets especializado para cada raça e tipo de habitos do pet, se adaptando a cada animal.
-26. existem veterinários especializados em cada área da saúde dos pets, além de clínicos gerais.
+21. Depois das 18:00 a clinica cobra mais 30% durante o horário de plantão, (salvo aqueles que tem o plano de saúde para pet da clinica).
+22. A clinica funciona da 5:00 ás 18:00 fora deste período ela está de plantão.
+23. A clinica tem uma farmacia especializada em pets (com varios produtos a venda e com descontos para aqueles que tem o plano de saúde para pet da clinica).
+24. a clinica tem um plano de saúde para pets especializado para cada raça e tipo de habitos do pet, se adaptando a cada animal.
+25. existem veterinários especializados em cada área da saúde dos pets, além de clínicos gerais.
  
 
 
