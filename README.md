@@ -138,6 +138,8 @@ Colocar aqui o diagrama de caso de uso...
 
 ![diagrama de caso de uso](https://github.com/Kcinom/Nicoly_Fiorindo/blob/main/imagem/Diagrama%20sem%20nome.drawio.png?raw=true)
 
+![diagrama2](https://github.com/Kcinom/Nicoly_Fiorindo/blob/main/imagem/Diagrama%20sem%20nome.drawio%20(1).png?raw=true)
+
 ---
 # 4. Principais telas do sistema
 Colocar abaixo a figura das telas do sistema...
