@@ -144,7 +144,12 @@ Colocar aqui o diagrama de caso de uso...
 # 4. Principais telas do sistema
 Colocar abaixo a figura das telas do sistema...
 
-![]()
+![pagina1](https://github.com/Kcinom/Nicoly_Fiorindo/blob/main/imagem/Captura%20de%20Tela%20(5).png?raw=true)
+![pagina2](https://github.com/Kcinom/Nicoly_Fiorindo/blob/main/imagem/Captura%20de%20Tela%20(2).png?raw=true)
+![pagina3](https://github.com/Kcinom/Nicoly_Fiorindo/blob/main/imagem/Captura%20de%20Tela%20(3).png?raw=true)
+![pagina4](https://github.com/Kcinom/Nicoly_Fiorindo/blob/main/imagem/Captura%20de%20Tela%20(4).png?raw=true)
+
+
 
 ---
 # 5. Arquitetura do sistema
