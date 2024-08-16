@@ -148,9 +148,18 @@ Colocar abaixo a figura das telas do sistema...
 
 ---
 # 5. Arquitetura do sistema
-Incluir arquitetura do sistema...
 
-![]()
+```mermaid
+graph TD;
+    A[Cliente Web] -->|Requisição HTTP| B[Servidor Web];
+    B -->|Processamento| C[Aplicação PHP];
+    C -->|Consulta| D[Servidor de Banco de Dados];
+    D -->|Resposta| C;
+    C -->|Resposta HTML| B;
+    B -->|Resposta HTTP| A;
+
+```
+
 
 
 [def]: https://github.com/Kcinom/Nicoly_Fiorindo/blob/main/imagem/Diagrama%20sem%20nome.drawio.png?raw=true
